@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald:wght@200&family=Rubik:ital,wght@1,300&display=swap');
+
+ 
+/**Styling for body and main page **/
+body {
+    font-family: "Rubik", sans-serif;
+    text-align: center;
+    position: relative;
+    font-size: 150%;
+    background-color: #9B9A53;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  img {
+    background-image: #9B9A53;
+    background-color: #9B9A53;
+  
+    max-width: 100%;
+    position: relative;
+  }
+
+  #questionButton {
+    font-family: "Rubik", sans-serif;
+    font-size: 100%;
+    background-color: dimgray;
+    border-radius: 2px;
+    
+  }
