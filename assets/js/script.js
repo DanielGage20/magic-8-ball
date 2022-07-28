@@ -1,20 +1,31 @@
 
+var onClick function() {
 
-document.addEventListener("DOMContentLoaded", function() {
-  let buttons = document.getElementsById("questionButton");
+}
+var question = prompt("What's your future?");
+8Ball.getAnswer(question);
+};
+$("#questionButton").click( onClick );
 }
 
+8ball.answers = function(questionbutton)
+{
+  var randomitem = answers[Math.floor(Math.randomitem()*answers.length)]
+}
 
-  let answers = ['Most likely!',
-               'Good luck!',
-               '100% yes!',
-               'The future is yours!',
-               'I better not tell you now!',
-               'Highly doubtful!',
-               'Pick another route!!',
-               'Slim chance!',
-               'It is all upto you!!',
-               'The future is yours!',
-               'Not happening, sorrry!',
-               'Try another question!',
-]
+  var answers = [
+               "Most likely!",
+               "Good luck!",
+               "100% yes!",
+               "The future is yours!",
+               "I better not tell you now!",
+               "Highly doubtful!",
+               "Pick another route!!",
+               "Slim chance!",
+               "It is all upto you!",
+               "The future is yours!",
+               "Not happening, sorry!",
+               "Try another question!"
+];
+
+console.log(magic8ball)
