@@ -1,5 +1,5 @@
  // Generates a random answer when user asks a question
- 
+
 let answers = [
              "Most likely!",
              "Good luck!",
@@ -17,7 +17,9 @@ let answers = [
 
 function questionButton() {
   var userAdjective = prompt("What's on your mind?");
-  return Math.random
-}
+  return Math.floor(Math.random) * answers;
+};
+
+console.log(questionButton);
 
 
