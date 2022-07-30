@@ -1,25 +1,25 @@
  // Generates a random answer when user asks a question
 
-let answers = [
-             "Most likely!",
-             "Good luck!",
-             "100% yes!",
-             "The future is yours!",
-             "I better not tell you now!",
-             "Highly doubtful!",
-             "Pick another route!",
-             "Slim chance!",
-             "It is all upto you!",
-             "The future is yours!",
-             "Not happening, sorry!",
-             "Try another question!"
-];
+ const answers = [];
+answers[0]= "Most likely!";
+answers[1]= "Good luck!";
+answers[2]= "100% yes!";
+answers[3]= "The future is yours!";
+answers[4]= "I better not tell you now!";
+answers[5]= "Highly doubtful!";
+answers[6]= "Pick another route!";
+answers[7]= "Slim chance!";
+answers[8]= "It's all upto you!";
+answers[9]= "The future is yours!";
+answers[10]= "Not happening, sorry!";
+answers[11]= "Try another question!";
 
 function questionButton() {
   var userAdjective = prompt("What's on your mind?");
-  return Math.floor(Math.random) * answers;
+  const random = Math.random() * answers.length;
 };
 
 console.log(questionButton);
+console.log(random, answers[random]);
 
 
