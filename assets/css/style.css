@@ -8,14 +8,13 @@ body {
     text-align: center;
     position: relative;
     font-size: 150%;
-    background-color: #9B9A53;
+    background-color:white;
     margin: 0px;
     padding: 0px;
   }
 
   img {
-    background-image: #9B9A53;
-    background-color: #9B9A53;
+
   
     max-width: 100%;
     position: relative;
