@@ -80,9 +80,8 @@ https://googlfonts.com - Website used to get font
  <h1>Code has been tested using the HTML Validator and CSS Validator with the following results:</h1>
 <ul>
 <li>index.html - 0 Errors / 0 Warnings</li>
-<li>resources.html - 0 Errors / 0 Warnings</li>
-<li>contact.html - 0 Errors / 0 Warnings</li>
-  <li>style.css - 0 Errors / 0 Warnings</li>
+ <li>style.css - 0 Errors / 0 Warnings</li>
+  <li>script.js 
   </ul>
 
   
