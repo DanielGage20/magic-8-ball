@@ -3,7 +3,12 @@
 I have decided to create a Magic 8 ball game for Project 2 with Code Institute. 
 <p> Images. </p>
 
-<p> Features: header, question box, image of magic 8 ball hand, varying answers.</p>
+
+<p> My Magic 8 Ball game will have very basic HTML and CSS coding, with the Javascript being the most important part of my Project.<br>
+It will feature a title asking "What's your future?<br>
+There will be an image of a hand holding an Magic 8 Ball.<br>
+The last section of my site will be a button saying "Ask me anything"<br>
+This will bring up a prompt box where the user can ask any question and they will get a random answer.</p>
 
 <p>Testing: lighthouse, bugs,html, css,javascript.</p>
 
@@ -27,44 +32,7 @@ https://googlfonts.com - Website used to get font
 <p> My aim for this site is to provide information about how Meditation can positivly help mental health, who can practice Meditation, the health benefits of meditation and the main steps to practicing Meditation. I will also provide links to resources I have used throughout my journey, these being podcasts and apps. </p>
 <p> There will also be a contact form, for anyone to get in contact with me for any reason.</p>
 
-<section>
-<p> My target audience is people for who experience any symptoms of poor mental health, this can be; anxiety, stress, depression, low mood, losing interest in daily activites, tiredness and lack of energy, talking less and avoiding social activities, struggling to control their emotions, aggression and irritability and feeling overwhelmed.</p> 
-
-<p> It can also attract people who are wanting to improve their overall mental health through meditation to help prevent any symptoms of poor mental health. </p>
-
-<h2> My personal experience with meditation</h2>
-<p> In this section, I am going to tell everyone where I think my mental health started to decline, when I asked for help and how I came out the other side. I will also explain how meditation was the most powerful exercise I did and still continue to do for to this day.</p>
-<p> I will also tell them the hard truth about mental health and how the main person who can help you is yourself.</p>
-
-<h1> Table of contents</h1>
-<ul>
-  <li> How meditation can help mental health</li>
-  <li> Who can practice meditation</li>
-  <li> How to practice meditation</li>
-  </ul>
-  <p> For each section, I will provide information and the steps to meditate.</p>
-  
-  <h1> Resources</h1>
-  <ul>
-  <li> Guided meditation</li>
-  <p>For this section, I'm going to talk about the apps I used for guided meditation, how they work and some of the benefits they offers.<br>
-    I will also provide anchor elements to their websites, that will open in a new tab.</p>
-  <li> Podcasts</li>
-  <p> There are so many mental health podcasts out there, it would take forever to name all of them. So, instead I am only going to link the podcasts that I listen too and some information about them and how they are slightly different.</p>
-  </ul>
-  
-  <p> For each resource, I will provide links to popular meditation websites, my preferred apps and free resources that have helped my journey into meditation.</p>
-  
- <h1> Features</h1>
- <ul>
- <li> There will be a main header of my website running across the top of my site, along side a navigation bar with links to specific sections</li>
-  <li> There will be 3 pages to my website, a home page, resources page and a contact form.</li>
-  <li> I will also have images running across the bottom of my home page and resources page.</li>
-  </ul>
-  
-  <h1>Deployment</h1>
-  
-  <p>To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:</p>
+<p>To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:</p>
 <ul>
   <li>Log into GitHub.</li>
   <li>From the list of repositories on the screen, select https://danielgage20.github.io/magic-8-ball/</li>
