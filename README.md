@@ -81,7 +81,7 @@ https://googlfonts.com - Website used to get font
 <ul>
 <li>index.html - 0 Errors / 0 Warnings</li>
  <li>style.css - 0 Errors / 0 Warnings</li>
-  <li>script.js 
+  <li>script.js - 0 Errors / 0 Warning</li>
   </ul>
 
   
