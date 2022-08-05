@@ -8,6 +8,11 @@ There will be an image of a hand holding an Magic 8 Ball.<br>
 The last section of my site will be a button saying "Ask me anything"<br>
 This will bring up a prompt box where the user can ask any question and they will get a random answer.</p>
 
+<img>
+![Screenshot 2022-08-01 at 18 02 44](https://user-images.githubusercontent.com/102919388/183086675-505d666a-2bde-462b-8363-9c3d2142a65b.png)
+</img>
+
+
 <h2>Deployment</h2>
 <p>To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:</p>
 <ul>
@@ -34,6 +39,7 @@ This will bring up a prompt box where the user can ask any question and they wil
   <ul>
   <li><a href="https://www.pexels.com/" target="_blank"> Pexels for all my images</a></li>
   <li><a href="https://fonts.google.com/" target="_blank"> Google Fonts for my fonts</a></li>
-  <li><a href="https://validator.w3.org/" target="_blank"> W3C validator to validate my code</a></li>
-  <li><a href="https://mycolor.space/" target="_blank"> My color space for my background color</a></li>
+  <li><a href="https://validator.w3.org/" target="_blank"> W3C validator to validate my HTML</a></li>
+  <li><a href="https://jigsaw.w3.org/css-validator/" target="_blank"> W3C CSS validator to validate my CSS</a></li>
+  <li><a href="https://jshint.com/" target="_blank"> JS hint to validate my Javascript code</a><li>
   </ul>
