@@ -1,36 +1,14 @@
-<header>Magic 8 ball game</header>
-<p> Descripton about the magic 8 ball game.</p>
-I have decided to create a Magic 8 ball game for Project 2 with Code Institute. 
-<p> Images. </p>
+<h1>Magic 8 ball Game.</h1>
 
+<p>I have decided to create a Magic 8 ball game for Project 2 with Code Institute.</p>
 
-<p> My Magic 8 Ball game will have very basic HTML and CSS coding, with the Javascript being the most important part of my Project.<br>
-It will feature a title asking "What's your future?<br>
+<p>My Magic 8 Ball game will have very basic HTML and CSS coding, with the Javascript being the most important part of my Project.<br>
+It will feature a title asking "What's your future?"<br>
 There will be an image of a hand holding an Magic 8 Ball.<br>
 The last section of my site will be a button saying "Ask me anything"<br>
 This will bring up a prompt box where the user can ask any question and they will get a random answer.</p>
 
-<p>Testing: lighthouse, bugs,html, css,javascript.</p>
-
-<h2>Deployment</h2>
-Log into GitHub.
-From the list of repositories on the screen, select danielgage20.github.io/magic-8-ball/.
-From the menu items near the top of the page, select Settings.
-Scroll down to the GitHub Pages section.
-Under Source click the drop-down menu labelled None and select Master Branch
-On selecting Master Branch the page is automatically refreshed, the website is now deployed.
-Scroll back down to the GitHub Pages section to retrieve the link to the deployed website. </p>
-
-<p>Credits: content, media.
-https://www.remove.bg/upload - Website used to edit photo
-https://googlfonts.com - Website used to get font
-</p>
-
-
-
-<h1>Magic 8 ball Game.</h1>
-<p> My aim for this site is to provide information about how Meditation can positivly help mental health, who can practice Meditation, the health benefits of meditation and the main steps to practicing Meditation. I will also provide links to resources I have used throughout my journey, these being podcasts and apps. </p>
-<p> There will also be a contact form, for anyone to get in contact with me for any reason.</p>
+Testing: lighthouse, bugs,html, css,javascript.
 
 <p>To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:</p>
 <ul>
