@@ -8,8 +8,7 @@ There will be an image of a hand holding an Magic 8 Ball.<br>
 The last section of my site will be a button saying "Ask me anything"<br>
 This will bring up a prompt box where the user can ask any question and they will get a random answer.</p>
 
-Testing: lighthouse, bugs,html, css,javascript.
-
+<h2>Deployment</h2>
 <p>To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:</p>
 <ul>
   <li>Log into GitHub.</li>
