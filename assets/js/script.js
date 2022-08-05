@@ -3,7 +3,7 @@
  function questionButton() {
   prompt ("What do you want to know?");
   window.alert(answer);
-};
+}
 
  let randomNumber = Math.floor(Math.random() * 12);
  let answer = '';
