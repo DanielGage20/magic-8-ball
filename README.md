@@ -13,7 +13,13 @@ This will bring up a prompt box where the user can ask any question and they wil
 ![alt text](Screenshot 2022-08-05 at 16.04.57.jpg)
 
 
-
+<h2>Bugs</h2>
+<p>Some of the bugs I encountered were the main image, when it came to deploying my site. The image was not showing, this was because I was using an absolute path, I rectified this by changing my path to relative.<br> Once I deployed my site again, there was an issue with the background of my image. <br>The back ground was white instead of my chosen color, so I simply changed my background to color to the image background color.</p>
+<br>
+<p>Another bug I encountered was in my Javascript code, at first my code was bringing up all of the answers at once rather than one random answer.<br>
+This was because I had not used a numbered array and assigned each answer a number for the Math.floor(Math.random() * 12); code to work.
+  Once I assigned each answer a number, it then worked and my site now comes up with a random answer<p>
+  
 
 <h2>Deployment</h2>
 <p>To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:</p>
@@ -43,5 +49,5 @@ This will bring up a prompt box where the user can ask any question and they wil
   <li><a href="https://fonts.google.com/" target="_blank"> Google Fonts for my fonts</a></li>
   <li><a href="https://validator.w3.org/" target="_blank"> W3C validator to validate my HTML</a></li>
   <li><a href="https://jigsaw.w3.org/css-validator/" target="_blank"> W3C CSS validator to validate my CSS</a></li>
-  <li><a href="https://jshint.com/" target="_blank"> JS hint to validate my Javascript code</a><li>
+  <li><a href="https://jshint.com/" target="_blank"> JS hint to validate my Javascript code</a></li>
   </ul>
