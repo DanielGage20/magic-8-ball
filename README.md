@@ -10,7 +10,7 @@ This will bring up a prompt box where the user can ask any question and they wil
 
 <h2>Completed project on multiple devices</h2>
 <a href="https://ui.dev/amiresponsive" target="_blank"> Am I Responsive</a>
-![Media Devices](/assets/images/Media devices.jpg)
+![Media Devices](/Media devices.jpg)
 
 <h2>Bugs</h2>
 <p>Some of the bugs I encountered were the main image, when it came to deploying my site. The image was not showing, this was because I was using an absolute path, I rectified this by changing my path to relative.<br> Once I deployed my site again, there was an issue with the background of my image. <br>The back ground was white instead of my chosen color, so I simply changed my background to color to the image background color.</p>
