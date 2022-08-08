@@ -10,7 +10,7 @@ This will bring up a prompt box where the user can ask any question and they wil
 
 <h2>Completed project on multiple devices</h2>
 <a href="https://ui.dev/amiresponsive" target="_blank"> Am I Responsive</a>
-![Screenshot 2022-08-05 at 16 04 57](https://user-images.githubusercontent.com/102919388/183399755-17f32e06-1b10-48a2-9d65-6a388add8780.jpg)
+![alt text](Screenshot 2022-08-05 at 16.04.57.jpg)
 
 
 
