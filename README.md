@@ -8,8 +8,10 @@ There will be an image of a hand holding an Magic 8 Ball.<br>
 The last section of my site will be a button saying "Ask me anything"<br>
 This will bring up a prompt box where the user can ask any question and they will get a random answer.</p>
 
-<img src= "Screenshot 2022-08-05 at 16.04.57.jpg">
-<img src="Screenshot 2022-08-05 at 17.07.34.jpg">
+<h2>Completed project on multiple devices</h2>
+<a href="https://ui.dev/amiresponsive" target="_blank"> Am I Responsive</a>
+![Screenshot 2022-08-05 at 16 04 57](https://user-images.githubusercontent.com/102919388/183399755-17f32e06-1b10-48a2-9d65-6a388add8780.jpg)
+
 
 
 
