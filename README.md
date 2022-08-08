@@ -9,8 +9,8 @@ The last section of my site will be a button saying "Ask me anything"<br>
 This will bring up a prompt box where the user can ask any question and they will get a random answer.</p>
 
 <img>
-![Screenshot 2022-08-01 at 18 02 44](https://user-images.githubusercontent.com/102919388/183086675-505d666a-2bde-462b-8363-9c3d2142a65b.png)![Screenshot 2022-08-05 at 17 07 34](https://user-images.githubusercontent.com/102919388/183094326-e75eefaf-01f8-4258-9f86-3707cce0c42c.png)
-
+![Screenshot](assets/images/Screenshot 2022-08-05 at 16.04.57.jpg)
+![screenshot] (assets/images/Screenshot 2022-08-05 at 17.07.34.jpg)
 </img>
 
 
