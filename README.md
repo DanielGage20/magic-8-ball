@@ -40,6 +40,8 @@ This was because I had not used a numbered array and assigned each answer a numb
 <li>index.html - 0 Errors / 0 Warnings</li>
  <li>style.css - 0 Errors / 0 Warnings</li>
   <li>script.js - 0 Errors / 0 Warning</li>
+  <li>Lighthouse testing - ![Screenshot 2022-08-05 at 17 07 34](https://user-images.githubusercontent.com/102919388/183404446-7d944b36-0b0f-4a54-a7a8-987076d5a81a.jpg)</li>
+
   </ul>
 
   
